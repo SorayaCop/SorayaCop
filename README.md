@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CopSoraya)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/sorayacop)
 
-![SorayaCop GitHub stats](https://github-readme-stats.vercel.app/api?username=sorayacop&show_icons=true&theme=dracula)
+![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sorayacop&layout=compact)
 
 ## Tecnologias 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
