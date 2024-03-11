@@ -10,4 +10,4 @@
 
 A moça de Humanas que faz TI | Atuando em aplicações Web como Desenvolvedora Junior
 
-4º periodo em Análise e Desenvolvimento de Sistemas
+5º periodo em Análise e Desenvolvimento de Sistemas
