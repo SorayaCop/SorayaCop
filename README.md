@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorayacop.dev/)
 
 
-![Soraya Cop GitHub stats](https://github-readme-stats.vercel.app/api?username=sorayacop&show_icons=true&theme=dracula)
-
 ![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sorayacop&layout=compact)
 
 A moça de Humanas que faz TI | Atuando em aplicações Web como Desenvolvedora Junior
