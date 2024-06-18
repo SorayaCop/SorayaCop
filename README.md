@@ -5,6 +5,4 @@
 
 ![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sorayacop&layout=compact)
 
-A moça de Humanas que faz TI | Atuando em aplicações Web como Desenvolvedora Junior
-
-5º periodo em Análise e Desenvolvimento de Sistemas
+A moça de Humanas que faz TI 😙
