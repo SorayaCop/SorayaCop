@@ -5,4 +5,7 @@
 
 ![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sorayacop&layout=compact)
 
-A moça de Humanas que faz TI 😙
+Recém-formada em Análise e Desenvolvimento de Sistemas, tenho como principal foco criar soluções eficientes e 
+intuitivas que melhoram a experiência do usuário e impulsionam resultados para empresas e pessoas. 
+Escolhi como principal ferramenta de construção o #Python | #Django, e hoje estou buscando me tornar uma especialista no Framework.
+
