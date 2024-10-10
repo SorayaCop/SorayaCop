@@ -74,4 +74,4 @@
   <br>
   
 <p align="right" > Created with 🧡 by Soraya Cop</p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=sorayacop&label=Profile%20views&color=0e75b6&style=flat" alt="Soraya Cop" /> </p>
+
