@@ -13,12 +13,12 @@
 
 ---
 
-<details>
+
 <summary>
   ✨ Tecnologias usadas atualmente:
 </summary>
    <br>
-<a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
@@ -34,8 +34,8 @@
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://docs.djangoproject.com/en/5.0/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://docs.python.org/3/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-</details>
-</details>
+
+
 <br>
 
 ---
@@ -74,4 +74,4 @@
   <br>
   
 <p align="right" > Created with 🧡 by Soraya Cop</p>
-
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=sorayacop&label=Profile%20views&color=0e75b6&style=flat" alt="Soraya Cop" /> </p>
