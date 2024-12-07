@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     Graduada em <b>Análise e Desenvolvimento de Sistemas</b>, atuo hoje como <b>Autônoma</b> construindo a presensa virtual de <b>Empreendedores e Microempresas</b>.
-    Minha meta como <b>Desenvolvedora</b> é levar soluções e melhorias atrávez dos códigos de forma descomplicada e acessivel.</em> 
+    Minha meta como <b>Desenvolvedora</b> é levar soluções e melhorias através dos códigos de forma descomplicada e acessível.</em> 
   <br>
   <b><i>"---I’m ready to give you my best.---"</i></b>
 </p>
